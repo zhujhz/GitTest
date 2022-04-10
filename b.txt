@@ -1,1 +1,3 @@
 newline in b
+
+newtestmain
