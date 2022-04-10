@@ -1,1 +1,2 @@
 newline in b
+newline in new branch
